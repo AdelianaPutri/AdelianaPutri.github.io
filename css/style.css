@@ -204,8 +204,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', end
 }
 /* Experiences $ Education */
 #exp_edu {
-	padding: 120px 0 60px 0;
-	background: rgb(84,208,221); /* Old browsers */
+	padding: 120px 0;
+	background: rgb(250,250,250); /* Old browsers */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#fafafa', GradientType=0 ); /* IE6-9 */
 }
 /* Portfolio Section */
