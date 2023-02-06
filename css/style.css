@@ -209,9 +209,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', end
 }
 /* Portfolio Section */
 #portfolio {
-	padding: 120px 0;
-	background: rgb(204,151,174); /* Old browsers */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc97ae', endColorstr='#cc97ae', GradientType=0 ); /* IE6-9 */
+	background: rgb(84,208,221); /* Old browsers */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
 }
 #portfolio h2 {
 	color: #54d0dd;
