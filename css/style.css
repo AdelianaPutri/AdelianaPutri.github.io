@@ -216,6 +216,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', end
 #portfolio h2 {
 	color: #54d0dd;
 }
+#about h2 {
+	color: #54d0dd;
+}
+#exp_edu h2 {
+	color: #54d0dd;
+}
+#contact h2 {
+	color: #54d0dd;
+}
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
